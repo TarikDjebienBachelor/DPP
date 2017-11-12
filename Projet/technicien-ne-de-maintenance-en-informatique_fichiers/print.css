@@ -1,0 +1,28 @@
+@charset "utf-8";
+@import url(main.css);
+/* CSS Print */
+
+
+
+
+
+/******** Default rules for tags ********/
+body{font-size:11px; font-family:Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000;}
+
+/********** Tree of common styles (ID) for all the templates (page structure) ********/
+#main{}
+	#header{display:none;}
+	#menu1{display:none;}
+	#footer{display:none;}
+	#oni_pub-top {display: none;}
+
+	#oni_sidebar {display: none;}
+	#oni_header {display: none;}
+	#oni_navigation {display: none;}
+	#oni_pub-right {display: none;}
+	.oni_content-list {display: none;}
+	#oni_footer-1 {display: none;}
+	#oni_footer {display: none;}
+	.oni_footer-1 {display: none;}
+	.oni_footer {display: none;}
+	.text_refMoteurEduc {display: none;}

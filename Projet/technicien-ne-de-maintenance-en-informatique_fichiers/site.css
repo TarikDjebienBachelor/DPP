@@ -1,0 +1,494 @@
+/* TABLEAU **************************************************************** */
+thead th a { text-decoration:none; }
+
+tbody a { text-decoration:none; }
+
+thead th a:hover,
+tbody a:hover { text-decoration:underline; }
+
+tbody tr.odd td {
+	background-color:#eef5f6;
+}
+.oni_tableSearchResults thead th {
+	color:#959595;
+	font-size:0.8em;
+}
+/***********************************************COMMUN**********************************************************/
+.oni_article a {
+	text-decoration: none;
+}
+.oni_article a:hover {
+	text-decoration: underline;
+}
+.oni_linkTop a:hover {
+	text-decoration:underline;
+}
+
+/* Infos regionales */
+.oni_menu1 li .lienActif {
+	background:url(../images/bg_subnav1.png) repeat-x 0 0 #0070be;
+}
+.oni_menu1 li.oni_menuInfos .lienActif {
+	background:url(../images/bg_subnav1-regions.png) repeat-x 0 0 #9d0d15;
+}
+.oni_menu1 li .oni_navHome span {
+	border-left:none;
+}
+.oni_subNavInner a:hover {
+	text-decoration:underline;
+}
+
+.oni_listSubRubr li {
+	margin:0 0 3px 0 !important;
+}
+.oni_listSubRubr ul {
+	margin:0 0 15px 12px !important;
+}
+
+.oni_blockSubnav .oni_linkHome a:hover,
+.oni_navTools a:hover,
+.oni_listSubRubr a:hover {
+	text-decoration:underline;
+}
+
+.oni_form-nav form p {
+	display:inline;
+}
+
+.oni_onglet-region {
+	_bottom: -6px;
+}
+.oni_onglet-region span {
+	_padding: 0 4px 3px 0;
+}
+.oni_linkLibrary a {
+	min-height:100%;
+}
+.oni_open {
+	background:url('../images/li_form-recherche2.gif') no-repeat 7px 8px;
+}
+
+.oni_subMenu select.larger {
+	float:right;
+	width: 230px;
+}
+.oni_bloc-hide {
+	_border:0;
+	_height: 1%;
+}
+
+.oni_submit-form input {
+	/*width:100px;*/
+	_padding: 1px 0 3px 0;
+}
+.oni_sidebar-nav li a:hover {
+	text-decoration: underline;
+}
+
+/****************Footer 1************/
+
+#oni_footer-1 p a:hover {
+	text-decoration: underline;
+}
+#oni_footer-1 ul li a:hover {
+	text-decoration: underline;
+}
+
+/****************Footer************/
+
+#oni_footer a:hover {
+	text-decoration: underline;;
+}
+.oni_content-list ul li a:hover {
+	text-decoration: underline;
+}
+.oni_content-zoom {
+	float: left;
+	margin:0;
+	width: 27%;
+}
+
+/*.oni_content-zoom li {
+	margin: 0 20px 0 0 !important;
+}*/
+
+.oni_content-print li {
+	margin:0 0 0 15px !important;
+}
+.oni_cadre {
+	overflow: hidden;
+	width: 610px;
+	width: 610px;
+	clear: both;
+}
+.oni_cadre ul li a:hover {
+	text-decoration: underline;
+}
+
+#oni_zoom-block .oni_blockCadre h2 {
+	font-family:Arial,sans-serif;
+	font-size:14px;
+}
+
+#oni_zoom-block .oni_linkMore a:hover {
+	text-decoration:underline;
+}
+
+/********************Fil Ariane****************/
+#oni_breadcrumbs a:hover {
+	text-decoration: underline;
+}
+.oni_linkBack a {
+	color:#006ab3;
+	text-decoration:none;
+}
+.oni_linkBack a:hover {
+	text-decoration:underline;
+}
+
+/*******************************Article simple**************************/
+.oni_listAnchors a {
+	color:#004a99;
+	text-decoration:none;
+}
+.oni_listAnchors a:hover {
+	text-decoration:underline;
+}
+#oni_zoom-block h1 {
+	color: #0b60ad;
+	background:transparent url(../images/bg_h1.gif) no-repeat scroll 0 5px;
+	/*font-family:'Helvetica', Arial, Verdana, Geneva, sans-serif !important;*/
+	padding: 0 0 0 23px;
+	margin:0;
+}
+.oni_articleBlockIntro {
+	padding:0 0 15px 23px !important;
+}
+.oni_list_consult li a:hover {
+	text-decoration: underline !important;
+}
+.oni_border_essentiel li a { text-decoration:none !important; }
+.oni_border_essentiel li a:hover {
+	text-decoration:underline !important;
+}
+
+/*******************Région*********************************/
+.oni_region a:hover{
+	text-decoration: underline;
+}
+
+
+/**********IDEO FICHE************/
+.oni_fiche-info {
+	_width: 644px;
+
+}
+.oni_fiche-info a {
+	text-decoration:none;
+}
+.oni_fiche-info a:hover {
+	text-decoration:underline;
+}
+.oni_fiche-info-2 ul li .oni_br {
+	display:block;
+}
+/*.oni_nav-in-ul li a {
+	padding: 7px 10px !important;
+}
+*/
+/*.oni_nav-in-ul .oni_li-on {
+	padding: 8px 11px 8px 11px;
+}*/
+
+/*.oni_li-special a {
+	background: #B7D2ED url('../images/bg_li-nav-special.jpg') repeat-x 0 0 !important;
+	color: #0F59A0;
+	padding: 3px 10px 3px 10px !important;
+}*/
+
+.oni_div-nav-in .oni_onglet a:hover {
+	text-decoration: underline;
+}
+.oni_nav-in .oni_onglet ul li a {
+	text-decoration: none;
+}
+.oni_nav-in .oni_onglet ul li a:hover {
+	text-decoration: underline;
+}
+/* Diaporama */
+.oni_diaporama .items {
+	margin:0;
+}
+.oni_diaporama .items li {
+	float:left;
+	margin:0 2px 0 0;
+	padding:0 !important;
+}
+/************Resultats simples************/
+.oni_toggleSubMenuFilter a, .oni_toggleSubMenuFilter span {
+	_height: 1%;
+}
+.oni_result-list ul li a:hover {
+	text-decoration: underline;
+}
+.oni_pagination a:hover {
+	text-decoration: none;
+}
+
+/* ----------------------------
+	POPIN
+----------------------------- */
+
+/* Bloc encadre */
+/*.oni_blockCadre table tr td {
+	color:#0066ae;
+}*/
+/*** Début Ajout style pour la Visionneuse (par Mohammed amine KASMI)***/
+
+.visionneuseContenu{
+	height:auto;
+	position:relative;
+}
+.oni_popin {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	z-index:5500;
+	width:580px;
+	margin-top: -300px;
+	margin-left: -305px;
+	opacity:0;
+	filter:alpha(opacity=0);
+	background: #F5F5F5;
+	color:#455f7b;
+	border-left: 20px solid white;
+	padding: 15px 10px 20px 0;
+}
+.oni_popin-voile {
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:5000;
+	width:100%;
+	height:0;
+	background:#000;
+	opacity:0;
+	filter:alpha(opacity=0);
+}
+* html .oni_popin-voile {
+	position: absolute;bottom:expression(documentElement.scrollTop + body.scrollTop + "px");
+}
+* html .oni_popin {
+	position:absolute;
+	top: 10%;
+	margin-top:0;
+	top:expression(documentElement.scrollTop + body.scrollTop + (documentElement.clientHeight/2) - 275 + "px");
+}
+.contenu .oni_popin {
+	position:relative;
+	top:auto;
+	left:auto;
+	z-index:5500;
+	width:auto;
+	height:auto;
+	margin:0;
+	opacity:1;filter:alpha(opacity=50);
+}
+
+.oni_popin .oni_title-content-popup {
+	float: left;
+	width: 100%;
+}
+.oni_popin .oni_title-content-popup h2 {
+	color: #0b60ad;
+	margin: 0 0 10px 5px;
+}
+.oni_popin .oni_content-popup {
+	border: 1px solid #CACACA;
+	background: white;
+	padding: 10px 0;
+	min-height: 290px;
+	height: auto !important;
+	height: 270px;
+}
+.oni_popin .oni_content-popup-list {
+	float: left;
+	width: 175px;
+	margin: 50px 0 0 0;
+}
+.oni_popin .oni_content-popup-list ul li a {
+	text-decoration: none;
+	color: #0961A9;
+	padding: 0 0 0 10px;
+	font-weight: bold;
+}
+.oni_popin .oni_content-popup-list ul li a:hover, .oni_popin .oni_content-popup-list ul li .oni_popup-list-on {
+	color: #4C4C4C;
+	background: url('../images/picto_popin-on.gif') no-repeat 0 5px;
+}
+.oni_popin .oni_content-popup-list h3 {
+	margin: 0 0 10px 10px;
+	color: #0b60ad;
+	font-size: 1.2em;
+}
+.oni_popin .oni_champs label {
+	color: #0C5DAF;
+}
+.oni_popin .oni_champs label img {
+	margin: 0 0 -3px 0;
+}
+.oni_popin .oni_popup-actions {
+	clear: both;
+	padding: 10px 0 0 0;
+}
+.oni_popin .oni_popup-actions ul li {
+	float: right;
+	width: 100px;
+}
+.oni_popin .oni_popup-actions ul li a {
+	display: block;
+	float: right;
+	text-decoration: none;
+	padding: 3px 24px;
+	color: #095DA5;
+}
+.oni_popin .oni_popin-ok a {
+	background: #0067AE none repeat scroll 0 0;
+	color: white !important;
+}
+.oni_popin .oni_popup-actions ul li a:hover {
+	text-decoration: underline;
+}
+.oni_popin .oni_popin-ok a:hover {
+	text-decoration: none !important
+}
+.oni_pageOption .popin-content .oni_contentPopin .oni_innerContent fieldset {
+	min-height: 290px;
+  _height: 290px;
+}
+/* ----------------------------
+	POPIN
+----------------------------- */
+.oni_contentPopin .oni_innerContent {
+	padding:0 10px 20px !important;
+
+}
+.popin-content {zoom:1;position:relative;}
+
+.oni_nav-in, .oni_contentPopin {zoom:1;position:relative;}
+
+html, body {zoom:1;}
+
+/* style ajouter par fatima bousada pour les listes que se trouve dans l\'articel */
+ul.oni_list_article li {
+	margin:0 0 10px;
+    padding:0 0 0 10px !important;
+    background: url('../images/bg_list-default.png') no-repeat 0 5px !important;
+}
+.oni_pageOption .oni_submit-form {
+	text-align:center;
+}
+.oni_pageOption .oni_submit-form input {
+	width:100px;
+}
+/**********************************/
+/* ajouté par Youssef
+/* date :
+/* description : Liste des  Filieres
+/**********************************/
+#positionMetier {
+	position:relative;
+}
+
+.oni_subMenu div.label {
+	display:block;
+	float:left;
+	font-size:0.95em !important;
+	padding-top:5px;
+	text-align:left;
+	width:100%;
+}
+.oni_list_oddEven li.odd {
+		background-color:#eef5f6;
+	}
+.oni_list_oddEven li.even {
+	background-color:#fff;
+}
+
+/* filter et toggle des resultats de recherche */
+.oni_filter a.oni_asc {
+	color:#535353;
+	display:block;
+	border:1px solid #87A9C1;
+	padding:3px 10px 3px 30px;
+	background: url('../images/picto_filter_asc.gif') no-repeat 5px 50%;
+}
+
+.oni_filter a.oni_desc{
+	color:#535353;
+	display:block;
+	border:1px solid #87A9C1;
+	padding:3px 10px 3px 30px;
+	background: url('../images/picto_filter_desc.gif') no-repeat 5px 50%;
+}
+
+.oni_subNavContainer {
+	position:relative;
+}
+
+/* Infos regionales */
+.oni_submit-form {
+	/*text-align:center;*/
+}
+.oni_toggleFilter h4 a:hover{
+	text-decoration:none;
+}
+
+.oni_toggleSubMenuFilter a, .oni_toggleSubMenuFilter span {
+	margin: 0 1px 0 1px !important;
+	padding:0px !important;
+	background:none !important;
+}
+.oni_toggleSubMenuFilter a div, .oni_toggleSubMenuFilter span div {
+	margin: 0 0 0 20px !important;
+	padding: 3px 3px 3px 5px;
+	background: url(../images/bg_list-recherche-on.gif) repeat-y;
+}
+.oni_toClose {
+	float:right;
+}
+.oni_subMenuFilter1 {
+	padding: 0 0 0 30px;
+	width: auto !important;
+}
+.oni_subMenuFilter1 div {
+	margin: 0 0 5px 0;
+	color: #676767;
+}
+
+.oni_popinContent-title {
+	color:#0b60ad;
+	display:block;
+	font-size:15px;
+	font-weight:bold;
+	margin:15px 0 0 20px;
+	padding:0;
+}
+.oni_filter-title {
+	color:#0B60AD;
+	font-size:0.9em;
+	padding:0;
+	margin:0 0 5px 5px;
+}
+p.copyright{
+	font-size: 10px;
+	text-align: center;
+}
+.oni_pageOption .popin-content .oni_contentPopin .oni_categorie-option {
+	color:#0b60ad;
+	font-size:18px;
+	margin:0 0 0 18px;
+}
+.divVoletFormation .oni_open{
+	background: none;
+}
